@@ -1,0 +1,5 @@
+name: ChatEvents
+version: '0.1.0'
+main: com.CodeerStudios.chatEvents.ChatEvents
+api-version: '1.21'
+authors: [ Thomas Froud ]
